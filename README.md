@@ -4,7 +4,7 @@ Factorish
 About
 -----
 
-`factorish` is a project I developed to make it easier to take legacy applications and make them behave like a [12factor](http://12factor.net) application.  See [Factorish and The Twelve-Fakter App](http://tech.paulcz.net/2015/01/factorish_and_the_12_fakter_app/) for a more detailed discussion on 12faktor apps.
+`factorish` is a project I developed to make it easier to take legacy applications and make them behave like a [12factor](http://12factor.net) application.  See [Factorish and The Twelve-Fakter App](http://tech.paulcz.net/blog/factorish_and_the_12_fakter_app/) for a more detailed discussion on 12faktor apps.
 
 The framework for it was based on the work by the opdemand folks on [deis](https://github.com/deis/deis) which I adapted for my [docker-percona_galera](https://github.com/paulczar/docker-percona_galera) project which aims to set up automagically clustering MySQL servers and then slowly morphed into this.
 
